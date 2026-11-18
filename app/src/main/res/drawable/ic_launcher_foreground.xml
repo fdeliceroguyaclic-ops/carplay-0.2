@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Anneau lumineux + silhouette de compacte 5 portes (dessin original) -->
+    <path android:strokeColor="#FF0A7CFF" android:strokeWidth="3"
+        android:pathData="M54,24a30,30 0,1 1,-0.01,0z" />
+    <path android:fillColor="#FFE8EEF6"
+        android:pathData="M30,62 L33,55 Q36,50 42,49 L48,43 Q51,41 56,41 L66,41 Q70,41 73,45 L77,50 Q82,51 83,55 L84,62 Z" />
+    <path android:fillColor="#FF0B1626"
+        android:pathData="M49,49 L52,44.5 L60,44.5 L60,49 Z M62,49 L62,44.5 L67,44.5 Q69,44.5 71,47 L72,49 Z" />
+    <path android:fillColor="#FF0B1626"
+        android:pathData="M42,62a5,5 0,1 1,-0.01,0z M74,62a5,5 0,1 1,-0.01,0z" />
+</vector>
